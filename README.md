@@ -48,7 +48,9 @@ style.css
 }
 
 // TIC TAC TOE
+
 const tic_tac_toe = {
+
 
     // ATTRIBUTES
     board: ['','','','','','','','',''],
